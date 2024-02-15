@@ -9,8 +9,6 @@
 #define ClientDate_hpp
 
 #include <stdio.h>
-
-#include <string>
 #include <string>
 
 class ClientData
